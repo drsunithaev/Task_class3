@@ -1,0 +1,260 @@
+[2022-07-09 21:12:12,510: INFO: ineuron]: iNeuron info-> ceo : Sudhanshu, domain : Data Science
+[2022-07-09 21:12:12,520: INFO: ineuron]: returns the company info Sudhanshu, Data Science
+[2022-07-09 21:12:12,521: INFO: ineuron]: new domain --> Web Development
+[2022-07-09 21:12:12,521: INFO: ineuron]: returns the company info Sudhanshu, ['D', 'a', 't', 'a', ' ', 'S', 'c', 'i', 'e', 'n', 'c', 'e', 'Web Development']
+[2022-07-09 21:12:25,246: INFO: ineuron]: iNeuron info-> ceo : Sudhanshu, domain : Data Science
+[2022-07-09 21:12:25,247: INFO: ineuron]: returns the company info Sudhanshu, Data Science
+[2022-07-09 21:12:25,247: INFO: ineuron]: new domain --> Web Development
+[2022-07-09 21:13:14,039: INFO: ineuron]: iNeuron info-> ceo : Sudhanshu, domain : Data Science
+[2022-07-09 21:13:14,039: INFO: ineuron]: returns the company info Sudhanshu, Data Science
+[2022-07-09 21:13:14,040: INFO: ineuron]: new domain --> Web Development
+[2022-07-09 21:13:14,040: INFO: ineuron]: returns the company info Sudhanshu, Data Science
+[2022-07-09 21:13:36,361: INFO: ineuron]: iNeuron info-> ceo : Sudhanshu, domain : Data Science
+[2022-07-09 21:13:36,362: INFO: ineuron]: returns the company info Sudhanshu, Data Science
+[2022-07-09 21:13:36,362: INFO: ineuron]: new domain --> Web Development
+[2022-07-09 21:13:36,362: INFO: ineuron]: returns the company info Sudhanshu, Data Science and Web Development
+[2022-07-09 21:24:29,462: INFO: ineuron]: iNeuron info-> ceo : Sudhanshu, domain : Data Science
+[2022-07-09 21:24:29,462: INFO: ineuron]: returns the company info Sudhanshu, Data Science
+[2022-07-09 21:24:29,462: INFO: ineuron]: new domain --> Web Development
+[2022-07-09 21:24:29,462: INFO: ineuron]: returns the company info Sudhanshu, Data Science and Web Development
+[2022-07-09 21:25:09,722: INFO: main]: Creating object for ineuron
+[2022-07-09 21:25:09,722: INFO: ineuron]: iNeuron info-> ceo : Sudhanshu, domain : Data Science
+[2022-07-09 21:25:09,722: INFO: ineuron]: returns the company info Sudhanshu, Data Science
+[2022-07-09 21:25:09,723: INFO: ineuron]: new domain --> Web Development
+[2022-07-09 21:25:09,723: INFO: ineuron]: returns the company info Sudhanshu, Data Science and Web Development
+[2022-07-09 21:26:22,641: INFO: main]: Creating object for ineuron class
+[2022-07-09 21:26:22,641: INFO: ineuron]: iNeuron info-> ceo : Sudhanshu, domain : Data Science
+[2022-07-09 21:26:22,641: INFO: ineuron]: returns the company info Sudhanshu, Data Science
+[2022-07-09 21:26:22,642: INFO: ineuron]: new domain --> Web Development
+[2022-07-09 21:26:22,642: INFO: ineuron]: returns the company info Sudhanshu, Data Science and Web Development
+[2022-07-09 21:26:22,642: INFO: main]: Creating object for student class
+[2022-07-09 21:26:22,642: INFO: student]: Student info-> name : Sunitha, course : FSDS
+[2022-07-09 21:26:22,642: INFO: student]: Return student's information : 0, Sunitha, FSDS
+[2022-07-09 21:26:22,642: INFO: student]: Assign register number for the student : 101
+[2022-07-09 21:26:22,642: INFO: student]: Return student's information : 101, Sunitha, FSDS
+[2022-07-09 21:33:39,247: INFO: main]: Creating object for ineuron class
+[2022-07-09 21:33:39,247: INFO: ineuron]: iNeuron info-> ceo : Sudhanshu, domain : Data Science
+[2022-07-09 21:33:39,247: INFO: ineuron]: returns the company info Sudhanshu, Data Science
+[2022-07-09 21:33:39,247: INFO: ineuron]: new domain --> Web Development
+[2022-07-09 21:33:39,247: INFO: ineuron]: returns the company info Sudhanshu, Data Science and Web Development
+[2022-07-09 21:33:39,247: INFO: main]: Creating object for student class
+[2022-07-09 21:33:39,248: INFO: student]: Student info-> name : Sunitha, course : FSDS
+[2022-07-09 21:33:39,248: INFO: student]: Return student's information : 0, Sunitha, FSDS
+[2022-07-09 21:33:39,248: INFO: student]: Assign register number for the student : 101
+[2022-07-09 21:33:39,248: INFO: student]: Return student's information : 101, Sunitha, FSDS
+[2022-07-10 12:28:56,062: INFO: main]: Creating object for ineuron class
+[2022-07-10 12:28:56,091: ERROR: main]: 'module' object is not callable
+Traceback (most recent call last):
+  File "C:\Users\sunit\PycharmProjects\Task_class3\main.py", line 26, in <module>
+    i = ineuron("Sudhanshu", "Data Science")
+TypeError: 'module' object is not callable
+[2022-07-10 12:29:48,500: INFO: main]: Creating object for ineuron class
+[2022-07-10 12:29:48,500: INFO: ineuron]: iNeuron info-> ceo : Sudhanshu, domain : Data Science
+[2022-07-10 12:29:48,500: INFO: ineuron]: returns the company info Sudhanshu, Data Science
+[2022-07-10 12:29:48,500: INFO: ineuron]: new domain --> Web Development
+[2022-07-10 12:29:48,500: INFO: ineuron]: returns the company info Sudhanshu, Data Science and Web Development
+[2022-07-10 12:29:48,500: INFO: main]: Creating object for student class
+[2022-07-10 12:29:48,500: INFO: student]: Student info-> name : Sunitha, course : FSDS
+[2022-07-10 12:29:48,500: INFO: student]: Return student's information : 0, Sunitha, FSDS
+[2022-07-10 12:29:48,500: INFO: student]: Assign register number for the student : 101
+[2022-07-10 12:29:48,501: INFO: student]: Return student's information : 101, Sunitha, FSDS
+[2022-07-10 12:29:48,501: INFO: blog]: Set title and url of the blog : Tourism, www.blog.tourismblog.com\myblog
+[2022-07-10 12:30:39,062: INFO: main]: Creating object for ineuron class
+[2022-07-10 12:30:39,062: INFO: ineuron]: iNeuron info-> ceo : Sudhanshu, domain : Data Science
+[2022-07-10 12:30:39,062: INFO: ineuron]: returns the company info Sudhanshu, Data Science
+[2022-07-10 12:30:39,062: INFO: ineuron]: new domain --> Web Development
+[2022-07-10 12:30:39,062: INFO: ineuron]: returns the company info Sudhanshu, Data Science and Web Development
+[2022-07-10 12:30:39,062: INFO: main]: Creating object for student class
+[2022-07-10 12:30:39,062: INFO: student]: Student info-> name : Sunitha, course : FSDS
+[2022-07-10 12:30:39,062: INFO: student]: Return student's information : 0, Sunitha, FSDS
+[2022-07-10 12:30:39,062: INFO: student]: Assign register number for the student : 101
+[2022-07-10 12:30:39,062: INFO: student]: Return student's information : 101, Sunitha, FSDS
+[2022-07-10 12:30:39,062: INFO: blog]: Set title and url of the blog : Tourism, www.blog.tourismblog.com\myblog
+[2022-07-10 12:30:39,062: INFO: blog]: Returns blog information Tourism, www.blog.tourismblog.com\myblog, Welcome
+[2022-07-10 12:30:39,062: INFO: blog]: write content for the blog
+[2022-07-10 12:31:01,120: INFO: blog]: Returns blog information Tourism, www.blog.tourismblog.com\myblog,  hello dear friends, this is my new blog
+[2022-07-10 12:32:00,137: INFO: main]: Creating object for ineuron class
+[2022-07-10 12:32:00,137: INFO: ineuron]: iNeuron info-> ceo : Sudhanshu, domain : Data Science
+[2022-07-10 12:32:00,137: INFO: ineuron]: returns the company info Sudhanshu, Data Science
+[2022-07-10 12:32:00,138: INFO: ineuron]: new domain --> Web Development
+[2022-07-10 12:32:00,138: INFO: ineuron]: returns the company info Sudhanshu, Data Science and Web Development
+[2022-07-10 12:32:00,138: INFO: main]: Creating object for student class
+[2022-07-10 12:32:00,138: INFO: student]: Student info-> name : Sunitha, course : FSDS
+[2022-07-10 12:32:00,138: INFO: student]: Return student's information : 0, Sunitha, FSDS
+[2022-07-10 12:32:00,138: INFO: student]: Assign register number for the student : 101
+[2022-07-10 12:32:00,138: INFO: student]: Return student's information : 101, Sunitha, FSDS
+[2022-07-10 12:32:00,138: INFO: main]: Creating a new blog
+[2022-07-10 12:32:00,138: INFO: blog]: Set title and url of the blog : Tourism, www.blog.tourismblog.com\myblog
+[2022-07-10 12:32:00,138: INFO: blog]: Returns blog information Tourism, www.blog.tourismblog.com\myblog, Welcome
+[2022-07-10 12:32:00,138: INFO: blog]: write content for the blog
+[2022-07-10 12:32:42,894: INFO: blog]: Returns blog information Tourism, www.blog.tourismblog.com\myblog,  HELLO ALL, I WANT TO SAY THAT BLOG WILL BE TRUELY AMAZING!!!
+[2022-07-10 12:35:53,915: INFO: main]: Creating object for ineuron class
+[2022-07-10 12:35:53,915: INFO: ineuron]: iNeuron info-> ceo : Sudhanshu, domain : Data Science
+[2022-07-10 12:35:53,915: INFO: ineuron]: returns the company info Sudhanshu, Data Science
+[2022-07-10 12:35:53,916: INFO: ineuron]: new domain --> Web Development
+[2022-07-10 12:35:53,916: INFO: ineuron]: returns the company info Sudhanshu, Data Science and Web Development
+[2022-07-10 12:35:53,916: INFO: main]: Creating object for student class
+[2022-07-10 12:35:53,916: INFO: student]: Student info-> name : Sunitha, course : <course.courses object at 0x0000021227767DF0>
+[2022-07-10 12:35:53,916: INFO: student]: Return student's information : 0, Sunitha, <course.courses object at 0x0000021227767DF0>
+[2022-07-10 12:35:53,916: INFO: student]: Assign register number for the student : 101
+[2022-07-10 12:35:53,916: INFO: student]: Return student's information : 101, Sunitha, <course.courses object at 0x0000021227767DF0>
+[2022-07-10 12:35:53,916: INFO: main]: Creating a new blog
+[2022-07-10 12:35:53,916: INFO: blog]: Set title and url of the blog : Tourism, www.blog.tourismblog.com\myblog
+[2022-07-10 12:35:53,916: INFO: blog]: Returns blog information Tourism, www.blog.tourismblog.com\myblog, Welcome
+[2022-07-10 12:35:53,916: INFO: blog]: write content for the blog
+[2022-07-10 12:36:41,309: INFO: main]: Creating object for ineuron class
+[2022-07-10 12:36:41,309: INFO: ineuron]: iNeuron info-> ceo : Sudhanshu, domain : Data Science
+[2022-07-10 12:36:41,310: INFO: ineuron]: returns the company info Sudhanshu, Data Science
+[2022-07-10 12:36:41,310: INFO: ineuron]: new domain --> Web Development
+[2022-07-10 12:36:41,310: INFO: ineuron]: returns the company info Sudhanshu, Data Science and Web Development
+[2022-07-10 12:36:41,310: INFO: main]: Creating object for student class
+[2022-07-10 12:36:41,310: INFO: student]: Student info-> name : Sunitha, course : FDFS
+[2022-07-10 12:36:41,310: INFO: student]: Return student's information : 0, Sunitha, FDFS
+[2022-07-10 12:36:41,310: INFO: student]: Assign register number for the student : 101
+[2022-07-10 12:36:41,310: INFO: student]: Return student's information : 101, Sunitha, FDFS
+[2022-07-10 12:36:41,310: INFO: main]: Creating a new blog
+[2022-07-10 12:36:41,310: INFO: blog]: Set title and url of the blog : Tourism, www.blog.tourismblog.com\myblog
+[2022-07-10 12:36:41,311: INFO: blog]: Returns blog information Tourism, www.blog.tourismblog.com\myblog, Welcome
+[2022-07-10 12:36:41,311: INFO: blog]: write content for the blog
+[2022-07-10 12:36:43,915: INFO: blog]: Returns blog information Tourism, www.blog.tourismblog.com\myblog, sdsd
+[2022-07-10 15:05:29,894: INFO: main]: Creating object for ineuron class
+[2022-07-10 15:05:29,904: INFO: ineuron]: iNeuron info-> ceo : Sudhanshu, domain : Data Science
+[2022-07-10 15:05:29,904: INFO: ineuron]: returns the company info Sudhanshu, Data Science
+[2022-07-10 15:05:29,904: INFO: ineuron]: new domain --> Web Development
+[2022-07-10 15:05:29,904: INFO: ineuron]: returns the company info Sudhanshu, Data Science and Web Development
+[2022-07-10 15:05:29,905: INFO: ineuron]: New course details : Full Stack,17000,12
+[2022-07-10 15:05:29,905: INFO: main]: Creating object for student class
+[2022-07-10 15:05:29,905: ERROR: main]: name 'course' is not defined
+Traceback (most recent call last):
+  File "C:\Users\sunit\PycharmProjects\Task_class3\main.py", line 38, in <module>
+    FSDS1 = student("Sunitha")
+  File "C:\Users\sunit\PycharmProjects\Task_class3\student.py", line 14, in __init__
+    logging.info(f"Student info-> name : {name}, course : {course}")
+NameError: name 'course' is not defined
+[2022-07-10 15:06:23,107: INFO: main]: Creating object for ineuron class
+[2022-07-10 15:06:23,107: INFO: ineuron]: iNeuron info-> ceo : Sudhanshu, domain : Data Science
+[2022-07-10 15:06:23,108: INFO: ineuron]: returns the company info Sudhanshu, Data Science
+[2022-07-10 15:06:23,108: INFO: ineuron]: new domain --> Web Development
+[2022-07-10 15:06:23,108: INFO: ineuron]: returns the company info Sudhanshu, Data Science and Web Development
+[2022-07-10 15:06:23,108: INFO: ineuron]: New course details : Full Stack,17000,12
+[2022-07-10 15:06:23,108: INFO: main]: Creating object for student class
+[2022-07-10 15:06:23,108: INFO: student]: Student info-> name : Sunitha
+[2022-07-10 15:06:23,108: INFO: student]: Return student's information : 0, Sunitha
+[2022-07-10 15:06:23,108: INFO: student]: Assign register number for the student : 101
+[2022-07-10 15:06:23,109: INFO: student]: Return student's information : 101, Sunitha
+[2022-07-10 15:06:23,109: INFO: main]: Creating a new blog
+[2022-07-10 15:06:23,109: INFO: blog]: Set title and url of the blog : Tourism, www.blog.tourismblog.com\myblog
+[2022-07-10 15:06:23,109: INFO: blog]: Returns blog information Tourism, www.blog.tourismblog.com\myblog, Welcome
+[2022-07-10 15:06:23,109: INFO: blog]: write content for the blog
+[2022-07-10 15:09:16,806: INFO: main]: Creating object for ineuron class
+[2022-07-10 15:09:16,807: INFO: ineuron]: iNeuron info-> ceo : Sudhanshu, domain : Data Science
+[2022-07-10 15:09:16,807: INFO: ineuron]: returns the company info Sudhanshu, Data Science
+[2022-07-10 15:09:16,807: INFO: ineuron]: new domain --> Web Development
+[2022-07-10 15:09:16,807: INFO: ineuron]: returns the company info Sudhanshu, Data Science and Web Development
+[2022-07-10 15:09:16,807: INFO: ineuron]: New course details : Full Stack,17000,12
+[2022-07-10 15:09:16,807: INFO: ineuron]: Return list of courses offered by iNeuron None
+[2022-07-10 15:09:16,807: INFO: main]: Creating object for student class
+[2022-07-10 15:09:16,807: INFO: student]: Student info-> name : Sunitha
+[2022-07-10 15:09:16,807: INFO: student]: Return student's information : 0, Sunitha
+[2022-07-10 15:09:16,807: INFO: student]: Assign register number for the student : 101
+[2022-07-10 15:09:16,807: INFO: student]: Return student's information : 101, Sunitha
+[2022-07-10 15:09:16,807: INFO: main]: Creating a new blog
+[2022-07-10 15:09:16,807: INFO: blog]: Set title and url of the blog : Tourism, www.blog.tourismblog.com\myblog
+[2022-07-10 15:09:16,807: INFO: blog]: Returns blog information Tourism, www.blog.tourismblog.com\myblog, Welcome
+[2022-07-10 15:09:16,807: INFO: blog]: write content for the blog
+[2022-07-10 15:16:46,700: INFO: main]: Creating object for ineuron class
+[2022-07-10 15:16:46,700: INFO: ineuron]: iNeuron info-> ceo : Sudhanshu, domain : Data Science
+[2022-07-10 15:16:46,701: INFO: ineuron]: returns the company info Sudhanshu, Data Science
+[2022-07-10 15:16:46,701: INFO: ineuron]: new domain --> Web Development
+[2022-07-10 15:16:46,701: INFO: ineuron]: returns the company info Sudhanshu, Data Science and Web Development
+[2022-07-10 15:16:46,701: INFO: ineuron]: New course details : Full Stack,17000,12
+[2022-07-10 15:16:46,701: INFO: ineuron]: Return list of courses offered by iNeuron None
+[2022-07-10 15:17:45,831: INFO: main]: Creating object for ineuron class
+[2022-07-10 15:17:45,831: INFO: ineuron]: iNeuron info-> ceo : Sudhanshu, domain : Data Science
+[2022-07-10 15:17:45,831: INFO: ineuron]: returns the company info Sudhanshu, Data Science
+[2022-07-10 15:17:45,833: INFO: ineuron]: new domain --> Web Development
+[2022-07-10 15:17:45,833: INFO: ineuron]: returns the company info Sudhanshu, Data Science and Web Development
+[2022-07-10 15:17:45,833: INFO: ineuron]: New course details : Full Stack,17000,12
+[2022-07-10 15:17:45,833: INFO: ineuron]: Return list of courses offered by iNeuron None
+[2022-07-14 04:28:41,963: INFO: main]: Creating object for ineuron class
+[2022-07-14 04:28:41,963: INFO: ineuron]: iNeuron info-> ceo : Sudhanshu, domain : Data Science
+[2022-07-14 04:28:41,963: INFO: ineuron]: returns the company info Sudhanshu, Data Science
+[2022-07-14 04:28:41,963: INFO: ineuron]: new domain --> Web Development
+[2022-07-14 04:28:41,964: INFO: ineuron]: returns the company info Sudhanshu, Data Science and Web Development
+[2022-07-14 04:28:41,964: INFO: ineuron]: New course details : Full Stack,17000,12
+[2022-07-14 04:28:41,964: INFO: ineuron]: Return list of courses offered by iNeuron None
+[2022-07-14 04:31:45,477: INFO: main]: Creating object for ineuron class
+[2022-07-14 04:31:45,477: INFO: ineuron]: iNeuron info-> ceo : Sudhanshu, domain : Data Science
+[2022-07-14 04:31:45,477: INFO: ineuron]: returns the company info Sudhanshu, Data Science
+[2022-07-14 04:31:45,477: INFO: ineuron]: new domain --> Web Development
+[2022-07-14 04:31:45,478: INFO: ineuron]: returns the company info Sudhanshu, Data Science and Web Development
+[2022-07-14 04:31:45,478: INFO: ineuron]: New course details : Full Stack,17000,12
+[2022-07-14 04:31:45,478: INFO: ineuron]: Return list of courses offered by iNeuron None
+[2022-07-14 04:32:48,508: INFO: main]: Creating object for ineuron class
+[2022-07-14 04:32:48,508: INFO: ineuron]: iNeuron info-> ceo : Sudhanshu, domain : Data Science
+[2022-07-14 04:32:48,508: INFO: ineuron]: returns the company info Sudhanshu, Data Science
+[2022-07-14 04:32:48,508: INFO: ineuron]: new domain --> Web Development
+[2022-07-14 04:32:48,508: INFO: ineuron]: returns the company info Sudhanshu, Data Science and Web Development
+[2022-07-14 04:32:48,508: INFO: ineuron]: New course details : Full Stack,17000,12
+[2022-07-14 04:32:48,508: INFO: ineuron]: Return list of courses offered by iNeuron None
+[2022-07-14 04:33:15,070: INFO: main]: Creating object for ineuron class
+[2022-07-14 04:33:15,070: INFO: ineuron]: iNeuron info-> ceo : Sudhanshu, domain : Data Science
+[2022-07-14 04:33:15,070: INFO: ineuron]: returns the company info Sudhanshu, Data Science
+[2022-07-14 04:33:15,070: INFO: ineuron]: new domain --> Web Development
+[2022-07-14 04:33:15,070: INFO: ineuron]: returns the company info Sudhanshu, Data Science and Web Development
+[2022-07-14 04:33:15,070: INFO: ineuron]: New course details : Full Stack,17000,12
+[2022-07-14 04:33:15,070: ERROR: main]: 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "C:\Users\sunit\PycharmProjects\Task_class3\main.py", line 34, in <module>
+    i.add_courses("Full Stack", 17000, 12)
+  File "C:\Users\sunit\PycharmProjects\Task_class3\ineuron.py", line 57, in add_courses
+    print("course list :-",self.course[0])
+TypeError: 'NoneType' object is not subscriptable
+[2022-07-14 04:34:44,100: INFO: main]: Creating object for ineuron class
+[2022-07-14 04:34:44,100: INFO: ineuron]: iNeuron info-> ceo : Sudhanshu, domain : Data Science
+[2022-07-14 04:34:44,100: INFO: ineuron]: returns the company info Sudhanshu, Data Science
+[2022-07-14 04:34:44,100: INFO: ineuron]: new domain --> Web Development
+[2022-07-14 04:34:44,100: INFO: ineuron]: returns the company info Sudhanshu, Data Science and Web Development
+[2022-07-14 04:34:44,100: INFO: ineuron]: New course details : Full Stack,17000,12
+[2022-07-14 04:34:44,100: ERROR: main]: 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "C:\Users\sunit\PycharmProjects\Task_class3\main.py", line 34, in <module>
+    i.add_courses("Full Stack", 17000, 12)
+  File "C:\Users\sunit\PycharmProjects\Task_class3\ineuron.py", line 58, in add_courses
+    print("course list :-",self.course[0])
+TypeError: 'NoneType' object is not subscriptable
+[2022-07-14 04:35:50,622: INFO: main]: Creating object for ineuron class
+[2022-07-14 04:35:50,622: INFO: ineuron]: iNeuron info-> ceo : Sudhanshu, domain : Data Science
+[2022-07-14 04:35:50,622: INFO: ineuron]: returns the company info Sudhanshu, Data Science
+[2022-07-14 04:35:50,622: INFO: ineuron]: new domain --> Web Development
+[2022-07-14 04:35:50,622: INFO: ineuron]: returns the company info Sudhanshu, Data Science and Web Development
+[2022-07-14 04:35:50,622: INFO: ineuron]: New course details : Full Stack,17000,12
+[2022-07-14 04:35:50,622: ERROR: main]: 'NoneType' object is not iterable
+Traceback (most recent call last):
+  File "C:\Users\sunit\PycharmProjects\Task_class3\main.py", line 34, in <module>
+    i.add_courses("Full Stack", 17000, 12)
+  File "C:\Users\sunit\PycharmProjects\Task_class3\ineuron.py", line 58, in add_courses
+    for i in self.course:
+TypeError: 'NoneType' object is not iterable
+[2022-07-14 04:36:52,378: INFO: main]: Creating object for ineuron class
+[2022-07-14 04:36:52,378: INFO: ineuron]: iNeuron info-> ceo : Sudhanshu, domain : Data Science
+[2022-07-14 04:36:52,378: INFO: ineuron]: returns the company info Sudhanshu, Data Science
+[2022-07-14 04:36:52,378: INFO: ineuron]: new domain --> Web Development
+[2022-07-14 04:36:52,378: INFO: ineuron]: returns the company info Sudhanshu, Data Science and Web Development
+[2022-07-14 04:36:52,378: INFO: ineuron]: New course details : Full Stack,17000,12
+[2022-07-14 04:36:52,378: INFO: ineuron]: Return list of courses offered by iNeuron [<course.courses object at 0x0000020541962B30>]
+[2022-07-14 04:39:20,947: INFO: main]: Creating object for ineuron class
+[2022-07-14 04:39:20,947: INFO: ineuron]: iNeuron info-> ceo : Sudhanshu, domain : Data Science
+[2022-07-14 04:39:20,947: INFO: ineuron]: returns the company info Sudhanshu, Data Science
+[2022-07-14 04:39:20,947: INFO: ineuron]: new domain --> Web Development
+[2022-07-14 04:39:20,947: INFO: ineuron]: returns the company info Sudhanshu, Data Science and Web Development
+[2022-07-14 04:39:20,948: INFO: ineuron]: New course details : Full Stack-1,17000,12
+[2022-07-14 04:39:20,948: INFO: course]: Returns course information Name: Full Stack-1, Fee: 17000 and Duration: 12 
+[2022-07-14 04:39:20,948: INFO: ineuron]: New course details : Full Stack-2,17000,12
+[2022-07-14 04:39:20,948: INFO: course]: Returns course information Name: Full Stack-1, Fee: 17000 and Duration: 12 
+[2022-07-14 04:39:20,948: INFO: course]: Returns course information Name: Full Stack-2, Fee: 17000 and Duration: 12 
+[2022-07-14 04:39:20,948: INFO: ineuron]: New course details : Full Stack-3,17000,12
+[2022-07-14 04:39:20,948: INFO: course]: Returns course information Name: Full Stack-1, Fee: 17000 and Duration: 12 
+[2022-07-14 04:39:20,948: INFO: course]: Returns course information Name: Full Stack-2, Fee: 17000 and Duration: 12 
+[2022-07-14 04:39:20,948: INFO: course]: Returns course information Name: Full Stack-3, Fee: 17000 and Duration: 12 
+[2022-07-14 04:39:20,948: INFO: ineuron]: Return list of courses offered by iNeuron [<course.courses object at 0x00000238011C2CB0>, <course.courses object at 0x00000238011C2F80>, <course.courses object at 0x00000238011C3040>]
